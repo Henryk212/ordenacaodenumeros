@@ -1,0 +1,14 @@
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\bin\Debug\net8.0\atividade6.exe
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\bin\Debug\net8.0\atividade6.deps.json
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\bin\Debug\net8.0\atividade6.runtimeconfig.json
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\bin\Debug\net8.0\atividade6.dll
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\bin\Debug\net8.0\atividade6.pdb
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\atividade6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\atividade6.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\atividade6.AssemblyInfo.cs
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\atividade6.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\atividade6.dll
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\refint\atividade6.dll
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\atividade6.pdb
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\atividade6.genruntimeconfig.cache
+C:\Users\autologon\Desktop\aula2\Exercicios\atividade6\obj\Debug\net8.0\ref\atividade6.dll
